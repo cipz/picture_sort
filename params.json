@@ -1,0 +1,11 @@
+{
+    "img_extensions":[
+        "jpg",
+        "png",
+        "jpeg"
+    ],
+    "raw_extensions":[
+        "NEF",
+        "ARW"
+    ]
+}
