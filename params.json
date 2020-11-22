@@ -2,7 +2,8 @@
     "img_extensions":[
         "jpg",
         "png",
-        "jpeg"
+        "jpeg",
+        "mp4"
     ],
     "raw_extensions":[
         "NEF",
